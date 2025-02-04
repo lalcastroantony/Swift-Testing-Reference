@@ -1,0 +1,77 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+
+# Swift Package Manager
+# Add this if you are using Swift Package Manager
+.build/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.playground/playground.xcworkspace/xcuserdata/
+
+# CocoaPods
+# Add this if you are using CocoaPods
+Pods/
+
+# Carthage
+# Add this if you are using Carthage
+Carthage/Build/
+
+# Fastlane
+# Add this if you are using Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+*.lock
+
+# Archives
+*.xcarchive
+
+# Unit test logs
+*.log
+
+# Xcode Server
+*.xccrashpoint
+*.xcactivitylog
+
+# Xcode Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Other
+*.swp
+*.swm
+*~.nib/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# SPM Packages
+Package.resolved
+
+# macOS
+Icon?
+__MACOSX/
+
+# Keychains
+*.keychain
+*.keychain-db
+
+# Personal Xcode configuration
+*.xccheckout
+*.xcscmblueprint
