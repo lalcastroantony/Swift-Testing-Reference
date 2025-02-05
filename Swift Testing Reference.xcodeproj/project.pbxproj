@@ -24,6 +24,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		01481ED42D52F0070040833B /* Swift Testing Reference.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Swift Testing Reference.xctestplan"; sourceTree = "<group>"; };
 		019BCFD32D52176300F9F056 /* Swift Testing Reference.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift Testing Reference.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		019BCFE32D52176400F9F056 /* Swift Testing ReferenceTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Swift Testing ReferenceTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		019BCFED2D52176400F9F056 /* Swift Testing ReferenceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Swift Testing ReferenceUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -75,6 +76,7 @@
 		019BCFCA2D52176300F9F056 = {
 			isa = PBXGroup;
 			children = (
+				01481ED42D52F0070040833B /* Swift Testing Reference.xctestplan */,
 				019BCFD52D52176300F9F056 /* Swift Testing Reference */,
 				019BCFE62D52176400F9F056 /* Swift Testing ReferenceTests */,
 				019BCFF02D52176400F9F056 /* Swift Testing ReferenceUITests */,
